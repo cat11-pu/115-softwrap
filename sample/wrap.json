@@ -1,0 +1,8 @@
+{
+  "offset_error_code": "E_BAD_OFFSET",
+  "line_error_code": "E_BAD_LINE",
+  "text": "abcde fghij klmno",
+  "long_text": "abcdefghij",
+  "width": 6,
+  "offsets": [0, 5, 6, 12, 17]
+}
